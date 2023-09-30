@@ -1358,6 +1358,7 @@ acca
 acces
 access
 accor-hotels
+account
 accounting
 accsch
 accscust
@@ -1673,6 +1674,7 @@ app2
 apple
 appliedphysics
 applwi
+apply
 apps
 apricot
 aps
@@ -2467,6 +2469,7 @@ carbondale
 card
 cardio
 career
+careers
 carl
 carlisle
 carlow
@@ -6617,6 +6620,7 @@ mel
 mel1
 melbourne
 mem
+member
 members
 memlib
 memphtn
@@ -6976,6 +6980,7 @@ mxs
 mxttb1
 mxu
 my
+myaccount
 mygw
 myhgoh
 mys
@@ -9507,6 +9512,7 @@ sslproxy1
 ssl-vpn
 sslvpn
 ssmcnet
+sso
 ssp
 sst
 ssta
@@ -9926,6 +9932,7 @@ thss
 thunder
 ti
 ticbrasil
+tickets
 tidc
 tiger
 tigernet
