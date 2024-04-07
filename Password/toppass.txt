@@ -14,3 +14,7 @@ admin
 abcdef
 loveme
 qwe123
+iloveyou
+123456788
+1236547899
+password
