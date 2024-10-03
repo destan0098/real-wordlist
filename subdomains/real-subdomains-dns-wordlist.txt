@@ -2600,6 +2600,7 @@ admin.hff02.lab.ne1
 administr3507
 administra437
 admin.nevec
+adminpanel
 adminsamlsp
 admintool
 admintool-finance
@@ -3408,6 +3409,7 @@ api.ads
 api-apac
 api-apac.web.analytics
 api.backyard3.corp
+api-beta
 api.bettertogether
 api-bg
 api-bg.web.analytics
@@ -3416,6 +3418,7 @@ api.bus
 api.cloudkv
 apidashboard
 api.delorean.sports.gq1
+api-dev
 api.dev.search
 api.digitalhomeservices
 apidocs
@@ -3464,6 +3467,7 @@ api-statcloud-yql-qa.sports
 api-statcloud-yql-stage
 api-statcloud-yql-stage.sports
 apis.web.analytics
+api-test
 api-test.dasher.corp
 api.tripod
 api.user-preference
@@ -4730,6 +4734,7 @@ bishop
 bishop101
 bis.tv.widgets
 bit
+bitbucket
 bitcom
 bitest
 bix
@@ -4855,6 +4860,7 @@ bondsteel
 bonn6
 bonysingh140
 book
+booking
 bookmarks
 books
 bookstore
@@ -5613,6 +5619,7 @@ ciaotv
 cias
 ciasc
 cicc
+ci-cd
 cicril
 cidde
 cider
@@ -7557,6 +7564,7 @@ darwin
 das
 dash
 dashboard
+dashboard-dev
 dashboard.feeds
 dashboard.slingstone
 dasher
@@ -7564,6 +7572,7 @@ dasher.corp
 dasher-qa.corp
 dat1
 data
+database
 datacen
 datacenter
 datacenter1
@@ -8828,6 +8837,7 @@ ekaterinburg
 ekhl
 ekstrom
 ekt
+elastic
 elax3
 elcatex
 eld
@@ -15191,6 +15201,7 @@ jcy1
 je
 jefferson
 jelke
+jenkins
 jepangvpn
 jerry
 jet
@@ -15201,6 +15212,7 @@ jfk1
 jibe
 jigsaw
 jill
+jira
 jjay
 jkt
 jmc
@@ -29427,6 +29439,7 @@ relay1
 relay2
 relays
 reldom
+release
 remacc
 remote
 remotedesktop
@@ -37956,6 +37969,7 @@ webc2s
 webc2s.pubgw
 webcam
 webcruz
+webdav
 webdb
 webdefence
 webdev
